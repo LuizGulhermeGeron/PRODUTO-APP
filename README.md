@@ -4,6 +4,6 @@
 
 Para usar o aplicativo, com o Flutter instalado (https://docs.flutter.dev/get-started/install) e o *servidor* ativo, use:
 ```
-cd aplicativo;
-flutter run;
+cd aplicativo
+flutter run
 ```
